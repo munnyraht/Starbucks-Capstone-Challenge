@@ -37,4 +37,5 @@ Keep in mind as well that someone using the app might make a purchase through th
     * transcript.json - records for transactions, offers received, offers viewed, and offers completed
     * profile.json - a json file that contains data ab
     
+Here is a need to a medium article written for the project: https://muniratsulaimon.medium.com/starbucks-capstone-challenge-62e2e714b6a6
  
